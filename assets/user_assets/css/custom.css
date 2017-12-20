@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 8, 2017, 12:29:32 AM
+    Author     : ASUS
+*/
+.user-form{
+    margin-top: 75px;
+}
+.bus-image{
+    margin-top: 20px;
+    border: 1px solid #bababa;
+    padding: 2px;
+}
+.bus-image img{
+    height: auto;
+    width: 100%;
+}
